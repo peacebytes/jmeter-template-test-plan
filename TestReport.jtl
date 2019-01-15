@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1547237653898,541,Register Request,201,Created,Number of Users 1-2,text,true,,567,271,4,4,https://reqres.in/api/register,540,0,338
+1547237653698,750,Register Request,201,Created,Number of Users 1-1,text,true,,567,271,4,4,https://reqres.in/api/register,750,0,538
+1547237654095,367,Register Request,201,Created,Number of Users 1-3,text,true,,567,271,4,4,https://reqres.in/api/register,367,0,148
+1547237654463,117,Add User Request,201,Created,Number of Users 1-3,text,true,,638,275,5,5,https://reqres.in/api/users,117,0,0
+1547237654440,220,Add User Request,201,Created,Number of Users 1-2,text,true,,640,275,5,5,https://reqres.in/api/users,220,0,0
+1547237654451,210,Add User Request,201,Created,Number of Users 1-1,text,true,,640,275,5,5,https://reqres.in/api/users,209,0,0
+1547237654301,409,Register Request,201,Created,Number of Users 1-4,text,true,,567,271,5,5,https://reqres.in/api/register,409,0,207
+1547237654581,193,Get User Request,200,OK,Number of Users 1-3,text,true,,979,201,5,5,https://reqres.in/api/users?page=1,192,0,0
+1547237654661,186,Get User Request,200,OK,Number of Users 1-2,text,true,,979,201,5,5,https://reqres.in/api/users?page=1,186,0,0
+1547237654503,348,Register Request,201,Created,Number of Users 1-5,text,true,,567,271,5,5,https://reqres.in/api/register,348,0,157
+1547237654661,208,Get User Request,200,OK,Number of Users 1-1,text,true,,979,201,5,5,https://reqres.in/api/users?page=1,208,0,0
+1547237654711,201,Add User Request,201,Created,Number of Users 1-4,text,true,,640,275,5,5,https://reqres.in/api/users,201,0,0
+1547237654852,198,Add User Request,201,Created,Number of Users 1-5,text,true,,640,275,5,5,https://reqres.in/api/users,198,0,0
+1547237654850,255,Register Request,201,Created,Number of Users 1-2,text,true,,567,277,5,5,https://reqres.in/api/register,255,0,128
+1547237654913,192,Get User Request,200,OK,Number of Users 1-4,text,true,,979,201,5,5,https://reqres.in/api/users?page=1,192,0,0
+1547237654776,383,Register Request,201,Created,Number of Users 1-3,text,true,,567,277,5,5,https://reqres.in/api/register,383,0,182
+1547237654872,322,Register Request,201,Created,Number of Users 1-1,text,true,,567,277,5,5,https://reqres.in/api/register,321,0,115
+1547237655050,237,Get User Request,200,OK,Number of Users 1-5,text,true,,979,201,5,5,https://reqres.in/api/users?page=1,236,0,0
+1547237655105,234,Add User Request,201,Created,Number of Users 1-2,text,true,,640,275,5,5,https://reqres.in/api/users,234,0,0
+1547237655195,144,Add User Request,201,Created,Number of Users 1-1,text,true,,638,275,5,5,https://reqres.in/api/users,144,0,0
+1547237655160,225,Add User Request,201,Created,Number of Users 1-3,text,true,,638,275,5,5,https://reqres.in/api/users,225,0,0
+1547237655106,416,Register Request,201,Created,Number of Users 1-4,text,true,,567,277,5,5,https://reqres.in/api/register,416,0,144
+1547237655340,182,Get User Request,200,OK,Number of Users 1-2,text,true,,979,201,5,5,https://reqres.in/api/users?page=1,182,0,0
+1547237655387,136,Get User Request,200,OK,Number of Users 1-3,text,true,,979,201,5,5,https://reqres.in/api/users?page=1,136,0,0
+1547237655340,183,Get User Request,200,OK,Number of Users 1-1,text,true,,979,201,5,5,https://reqres.in/api/users?page=1,183,0,0
+1547237655524,189,Add User Request,201,Created,Number of Users 1-4,text,true,,640,275,2,2,https://reqres.in/api/users,189,0,0
+1547237655289,425,Register Request,201,Created,Number of Users 1-5,text,true,,567,277,2,2,https://reqres.in/api/register,424,0,233
+1547237655715,109,Add User Request,201,Created,Number of Users 1-5,text,true,,642,277,2,2,https://reqres.in/api/users,109,0,0
+1547237655715,117,Get User Request,200,OK,Number of Users 1-4,text,true,,979,201,2,2,https://reqres.in/api/users?page=1,117,0,0
+1547237655826,192,Get User Request,200,OK,Number of Users 1-5,text,true,,979,201,1,1,https://reqres.in/api/users?page=1,191,0,0
