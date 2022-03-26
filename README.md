@@ -6,7 +6,8 @@ Download JMeter: https://jmeter.apache.org/download_jmeter.cgi
 
 ### Set-up JMeter ###
 Goals: 
-Unzip apache-jmeter-5.0.tgz (or .zip) to a folder and we will run JMeter from that location `~/Downloads/apache-jmeter-5.0`
+
+Download & unzip apache-jmeter-5.0.tgz (or .zip) to a folder and we will run JMeter from that location `~/Downloads/apache-jmeter-5.0`
 
 Running JMeter Console UI by opening a new terminal console.
 ```
